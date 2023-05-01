@@ -1,4 +1,4 @@
-### Projeto Desafio Django - Medical
+### Projeto PAS - Medical
 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
